@@ -11,6 +11,7 @@ Some of these were the product of necessity as OpenAI decides to rip features ou
 ### REQ
 This folder contains some necessary logic for piggybacking on data involved in network requests.
 - See the `readme` in that directory for more details
+- You'll need to have the `token_capture` script up and running for many scripts not denoted as `standalone`
 
 ### read_aloud
 This was a quick way to restore the "Read Aloud" / TTS button and functionality when OpenAI "accidentally" (?) removed the button. I still keep the script enabled in my browser because:
