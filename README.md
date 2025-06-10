@@ -1,1 +1,21 @@
 # ChatGPT-Scripts
+
+Some handy ChatGPT scripts to customize your UI experience!
+
+Some of these were the product of necessity as OpenAI decides to rip features out of the interface from time to time. Others are just fun or useful!
+
+---
+
+## Here's what we've got
+
+### REQ
+This folder contains some necessary logic for piggybacking on data involved in network requests.
+- See the `readme` in that directory for more details
+
+### read_aloud
+This was a quick way to restore the "Read Aloud" / TTS button and functionality when OpenAI "accidentally" (?) removed the button. I still keep the script enabled in my browser because:
+- It includes a 'stop' button so you can interrupt playback!
+- Quick voice switching using a convenient dropdown
+
+### chat_history
+Another OpenAI big brain move eliminated the organization of chat history entries by date. I liked the feature. So I brought it back.
