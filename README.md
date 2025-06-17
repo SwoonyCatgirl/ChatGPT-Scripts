@@ -4,6 +4,15 @@ Some handy ChatGPT scripts to customize your UI experience!
 
 Some of these were the product of necessity as OpenAI decides to rip features out of the interface from time to time. Others are just fun or useful!
 
+## Scripts?
+
+Yes! Tampermonkey userscripts to be more specific.
+
+- [Grab Tampermonkey](https://www.tampermonkey.net/)
+- Use the Tampermonkey dashboard to make a new script
+- Replace that 'boilerplate' content with whichever script you're interested in here!
+- Save it, then go to a new or existing ChatGPT chat and refresh the page.
+
 ---
 
 ## Here's what we've got
