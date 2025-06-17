@@ -9,3 +9,5 @@ https://github.com/SwoonyCatgirl/ChatGPT-Scripts/tree/main/REQ
 
 ### Screenshot:
 ![image](https://github.com/user-attachments/assets/5ad5a03c-d6ed-400f-bd94-7b66100c45a6)
+
+Quick vid: [On reddit](https://www.reddit.com/user/SwoonyCatgirl/comments/1l7qzay/rip_chat_history_organization/)
